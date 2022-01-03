@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheFallen087
+- 👀 I’m interested in Fivem/Lua
+- 🌱 I’m currently learning QBCore/ Lua scripting
+- 💞️ I’m looking to collaborate on Anything QBCore
+- 📫 How to reach me 堕ちた#5823
