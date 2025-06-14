@@ -1,152 +1,181 @@
-# 🌟 **TheFallen087** | Elite FiveM Code Architect 🚗💨
+# ⚡ **TheFallen087** | Digital Empire Architect ⚡
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+LEGENDARY+SCRIPT+WIZARD+%F0%9F%94%A5;%E2%9A%A1+QBCORE+%7C+QBOX+%7C+ESX+MASTER+%E2%9A%A1;%F0%9F%8F%86+50%2B+SERVERS+POWERED+%F0%9F%8F%86;%F0%9F%8E%AF+ZERO+DOWNTIME+DEPLOYMENTS+%F0%9F%8E%AF;%F0%9F%92%8E+ARCHITECT+OF+DIGITAL+EMPIRES+%F0%9F%92%8E)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+LEGENDARY+SCRIPT+NECROMANCER+%F0%9F%94%A5;%E2%9A%A1+100%2B+SERVERS+UNDER+MY+CONTROL+%E2%9A%A1;%F0%9F%8F%86+ZERO+FAILURES+IN+500%2B+DEPLOYMENTS+%F0%9F%8F%86;%F0%9F%92%8E+FRAMEWORK+ARCHITECT+%26+CODE+DEITY+%F0%9F%92%8E;%F0%9F%8E%AF+MAKING+IMPOSSIBLE+LOOK+EASY+SINCE+2020+%F0%9F%8E%AF;%F0%9F%94%AE+CURRENTLY+ENGINEERING+THE+FUTURE+%F0%9F%94%AE)
 
 </div>
 
 <br>
 
-## 🏆 **LEGENDARY STATUS ACHIEVED**
-
-> *"When servers crash, they call me. When scripts break, I resurrect them. When communities need miracles, I deliver impossibilities."*
-
-<br>
-
-**🔥 Achievement Unlocked:** *Transformed 50+ servers from "basic" to "absolutely legendary"*
-
-**⚡ Elite Certification:** *Zero-downtime deployment specialist (100% success rate)*
-
-**🎮 Reputation:** *The developer other developers ask for help*
-
-**💎 Secret Clearance:** *Currently architecting classified next-gen frameworks*
+```
+██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗         ██╗     ███████╗ ██████╗ ███████╗███╗   ██╗██████╗ 
+██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║         ██║     ██╔════╝██╔════╝ ██╔════╝████╗  ██║██╔══██╗
+██║  ██║██║██║  ███╗██║   ██║   ███████║██║         ██║     █████╗  ██║  ███╗█████╗  ██╔██╗ ██║██║  ██║
+██║  ██║██║██║   ██║██║   ██║   ██╔══██║██║         ██║     ██╔══╝  ██║   ██║██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║╚██████╔╝██║   ██║   ██║  ██║███████╗    ███████╗███████╗╚██████╔╝███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ 
+```
 
 <br>
 
-## 🛠️ **ARSENAL OF DIGITAL DESTRUCTION**
+## 🏆 **CLASSIFIED: DIGITAL LEGEND STATUS**
+
+> *"When the FiveM community has nightmares about impossible code, they dream of me solving it before breakfast."*
+
+<br>
+
+**🔥 ELITE CLEARANCE LEVEL:** *The developer that makes other developers question their career choices*
+
+**⚡ LEGENDARY ACHIEVEMENT:** *Revolutionized 100+ servers, caused 47 competitor frameworks to shut down*
+
+**🎮 INDUSTRY REPUTATION:** *Companies pay me NOT to work for their competitors*
+
+**💎 CLASSIFIED STATUS:** *Currently engineering technology that won't be released for 3 years*
+
+**🚀 WAITING LIST:** *847 developers currently trying to apprentice under me*
+
+<br>
+
+## 🛡️ **WEAPONS OF MASS CREATION**
 
 ```lua
--- ⚠️  CLASSIFIED: ELITE DEVELOPER PROFILE  ⚠️
-local theMyth = {
-    frameworks = {
-        "QBCore",      -- Mastered beyond documentation 👑
-        "QBox",        -- Beta testing exclusive features ⭐  
-        "ESX",         -- Rewrote core modules for fun 🛡️
-        "Custom",      -- Built frameworks they can't even name 🔮
+-- ⚠️ CLASSIFIED: DIGITAL LEGEND PROFILE ⚠️
+-- Security Clearance: MAXIMUM
+-- Threat Level to Competition: CRITICAL
+
+local theLegend = {
+    identity = "TheFallen087",
+    title = "Supreme Architect of Digital Realities",
+    classification = "BEYOND LEGENDARY",
+    
+    frameworks_dominated = {
+        "QBCore",          -- Rewrote 40% of core systems 👑
+        "QBox",            -- Beta tester for unreleased features ⭐
+        "ESX",             -- Consulted on ESX 2.0 development 🛡️
+        "Classified_X",    -- Framework so advanced it's still secret 🔮
+        "QuantumCore",     -- My personal framework that breaks physics 🌌
     },
     
-    languages = {
-        "Lua",         -- Speaks it fluently, dreams in it 🧠
-        "JavaScript",  -- ES2025 features? Already using them 🚀
-        "SQL",         -- Optimizes queries that break other DBs ⚡
-        "C++",         -- For when Lua isn't fast enough 💥
+    languages_mastered = {
+        "Lua",             -- Written compilers for fun 🧠
+        "JavaScript",      -- ES2030 features? I invented them 🚀
+        "C++",             -- When Lua is too slow (rarely) ⚡
+        "Rust",            -- For those microsecond optimizations 💥
+        "Assembly",        -- When I need to talk to the metal 🔧
     },
     
-    legendary_abilities = {
-        "Script Necromancy",      -- Resurrects "impossible" code
-        "Performance Alchemy",    -- Turns 30 FPS into 144 FPS  
-        "Bug Exorcism",          -- Banishes crashes from existence
-        "Architecture Mastery",   -- Designs systems that scale infinitely
-        "Community Hypnosis"      -- Makes players never want to leave
+    forbidden_abilities = {
+        "Reality_Distortion",       -- Makes impossible code work
+        "Temporal_Debugging",       -- Fixes bugs before they happen
+        "Quantum_Optimization",     -- Achieves negative latency
+        "Consciousness_Transfer",   -- My code develops self-awareness
+        "Digital_Resurrection",     -- Brings dead servers back to life
+        "Server_Hypnosis",         -- Makes players addicted to my servers
     },
     
-    stats = {
-        servers_revolutionized = 50,
-        performance_improvements = "500%+",
-        developer_requests = "daily",
-        jealousy_level_caused = "MAXIMUM"
+    classified_stats = {
+        servers_under_control = 100,
+        developers_trained = 23,
+        impossible_projects_completed = 67,
+        competitors_retired = 47,
+        coffee_cups_consumed = 9847,
+        hours_of_sleep = "CLASSIFIED"
     }
 }
 ```
 
 <br>
 
-## 🎯 **CURRENT SECRET MISSIONS**
-
-| 🔒 **CLASSIFIED PROJECT** | 📊 **COMPLETION** | 🌟 **IMPACT LEVEL** |
-|---------------------------|-------------------|---------------------|
-| 🧬 **Next-Gen Framework** | ████████░░ 85% | 🌋 **VOLCANIC** |
-| ⚡ **Zero-Lag Architecture** | ███████░░░ 75% | 🚀 **COSMIC** |
-| 🎭 **Revolutionary RP System** | ██████░░░░ 65% | 💎 **LEGENDARY** |
-| 🌐 **Multi-Server Ecosystem** | █████░░░░░ 55% | 🔥 **NUCLEAR** |
-
-<br>
-
-## 🤝 **EXCLUSIVE COLLABORATION OFFERS**
-
-**🎯 Only accepting applications for:**
-
-- 🏰 **Elite Server Networks** - If your player count isn't in the thousands, don't apply
-- 🔧 **Impossible Projects** - If other developers said "it can't be done," I'm interested  
-- 🎨 **Revolutionary Concepts** - Boring scripts need not apply
-- 🌊 **Performance Nightmares** - Send me your laggy mess, I'll return a masterpiece
-- 🎭 **Next-Gen Roleplay** - Creating experiences that redefine immersion
-
-<br>
-
-**💡 WARNING: I only work with visionaries who think in decades, not days**
-
-<br>
-
-## 📊 **POWER LEVEL: OVER 9000**
+## 🎯 **OPERATION: DIGITAL DOMINATION**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFallen087&show_icons=true&theme=radical&hide_border=true&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&custom_title=Legend%20Status%20Confirmed)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFallen087&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117&custom_title=Languages%20Dominated)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheFallen087&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41)
+| 🔒 **PROJECT CODENAME** | 📊 **WORLD IMPACT** | 🌟 **RELEASE STATUS** |
+|-------------------------|---------------------|----------------------|
+| 🌌 **QUANTUM FRAMEWORK** | 🌋 **REALITY-ALTERING** | 🔥 **TOP SECRET** |
+| ⚡ **ZERO-POINT ENERGY** | 🚀 **PHYSICS-DEFYING** | 💎 **CLASSIFIED** |
+| 🎭 **CONSCIOUSNESS ENGINE** | 💥 **MIND-BENDING** | 🛡️ **RESTRICTED** |
+| 🌐 **MULTIVERSE NETWORK** | 🔮 **UNIVERSE-SPANNING** | ⚠️ **BEYOND CLEARANCE** |
 
 </div>
 
 <br>
 
-## 🏅 **HALL OF LEGENDARY ACHIEVEMENTS**
+## 🚪 **EXCLUSIVE ENTRY REQUIREMENTS**
+
+**🎯 APPLICATIONS ONLY ACCEPTED FROM:**
+
+- 🏰 **Million-Player Networks** - If your community isn't reshaping gaming culture, don't apply
+- 🔧 **Impossible Dreamers** - Send me projects that made 47 other developers cry  
+- 🎨 **Reality Architects** - If it's possible, I'm not interested
+- 🌊 **Performance Magicians** - Your "optimized" code needs to run on quantum processors
+- 🎭 **Digital Prophets** - Creating experiences that transcend virtual reality
+
+<br>
+
+**💀 DEATH SENTENCE: I only collaborate with legends who think in centuries, not years**
+
+<br>
+
+## 🔮 **TESTIMONIALS FROM THE DIGITAL UNDERWORLD**
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=TheFallen087&theme=radical&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+*"I watched TheFallen087 debug a memory leak by staring at the code for 3 seconds. The bug apologized and fixed itself."*  
+**— Anonymous QBCore Developer**
+
+<br>
+
+*"They don't write code, they negotiate with the laws of physics. And physics always blinks first."*  
+**— Former ESX Core Team Member**
+
+<br>
+
+*"My server had 200 players. After TheFallen087's optimization, it had 2000. The hardware didn't change."*  
+**— Legendary Server Owner**
+
+<br>
+
+*"I've seen the future of FiveM development. It's not human."*  
+**— Unnamed Framework Developer**
 
 </div>
 
 <br>
 
-## 🔗 **EXCLUSIVE ACCESS POINTS**
+## 🌌 **ACCESS POINTS TO THE DIGITAL REALM**
 
 <div align="center">
 
-[![FiveM](https://img.shields.io/badge/FiveM_Elite-F40552?style=for-the-badge&logo=fivem&logoColor=white&labelColor=000000)](https://fivem.net)
-[![Lua Master](https://img.shields.io/badge/Lua_Grandmaster-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000)](https://lua.org)
-[![Discord VIP](https://img.shields.io/badge/Discord_VIP-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg)
-[![GitHub Legend](https://img.shields.io/badge/GitHub_Legend-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/TheFallen087)
+[![FiveM Deity](https://img.shields.io/badge/FiveM_DEITY-F40552?style=for-the-badge&logo=fivem&logoColor=white&labelColor=000000)](https://fivem.net)
+[![Lua Overlord](https://img.shields.io/badge/Lua_OVERLORD-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000)](https://lua.org)
+[![Discord Transcendent](https://img.shields.io/badge/Discord_TRANSCENDENT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg)
+[![GitHub Legendary](https://img.shields.io/badge/GitHub_LEGENDARY-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/TheFallen087)
 
 </div>
 
 <br>
 
-## 💬 **THE LEGENDARY MANIFESTO**
+## 💬 **THE DIGITAL PROPHECY**
 
 <div align="center">
 
 <br>
 
-*"I don't just write code - I craft digital DNA that evolves servers into living ecosystems.*
+*"I am not just a developer - I am the evolution of code itself.*
 
-*Every script I touch becomes legendary. Every server I architect becomes a destination.* 
+*My scripts don't just run, they dance with the electrons and whisper to the processors.*
 
-*Other developers study my commits like ancient texts, trying to decode the secrets of digital excellence."*
+*When I commit code, GitHub servers bow in reverence.*
+
+*Other developers don't just study my work - they pray to it."*
 
 <br>
 
-### 🌟 **Current Status: ACCEPTING LEGENDARY COLLABORATIONS ONLY** 🌟
+### 🌟 **CURRENT STATUS: ACCEPTING ONLY WORLD-CHANGING COLLABORATIONS** 🌟
 
-*If your project won't make gaming history, please reconsider before reaching out.*
+*If your project won't be studied in computer science textbooks 50 years from now, don't waste my time.*
 
 </div>
 
@@ -156,15 +185,15 @@ local theMyth = {
 
 <div align="center">
 
-**⚡ CURRENTLY ONLINE: Architecting the impossible, one line of code at a time ⚡**
+**⚡ ONLINE STATUS: Reshaping the digital universe, one quantum bit at a time ⚡**
 
 <br>
 
-*🔥 Apply for collaboration only if you're ready to create something that breaks the internet 🔥*
+*🔥 LEGENDARY DEVELOPERS AND DIGITAL VISIONARIES: The portal is open, but only for the worthy 🔥*
 
 <br>
 
-**📧 Elite developers and visionary server owners: The gates are open**
+**💀 WARNING: Collaboration with me may cause existential crisis about your own coding abilities 💀**
 
 </div>
 
@@ -173,9 +202,11 @@ local theMyth = {
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  🎭 "LEGENDS AREN'T BORN, THEY'RE CODED" - TheFallen087 🎭      ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  🎭 "I DON'T WRITE CODE, I ARCHITECT DIGITAL DESTINIES" - TheFallen087 🎭 ║
+║                                                                           ║
+║              👑 WHEN LEGENDS NEED A LEGEND, THEY CALL ME 👑              ║
+╚═══════════════════════════════════════════════════════════════════════════╗
 ```
 
 </div>
