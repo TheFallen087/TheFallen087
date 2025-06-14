@@ -1,138 +1,203 @@
-# 🌟 **TheFallen087** | FiveM Developer & Community Builder 🚗💨
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=FiveM+Script+Developer+%F0%9F%94%A5;QBCore+%7C+QBox+%7C+ESX+Specialist;Building+Amazing+RP+Experiences;Always+Learning%2C+Always+Coding)
 
-</div>
-
-<br>
-
-## 🎯 **What I'm About**
-
-> *"Passionate about creating immersive roleplay experiences that bring communities together"*
+# ⚡ **TheFallen087** ⚡
+### 🎮 FiveM Developer & Modern Web Architect 🚀
 
 <br>
 
-**🔥 Current Focus:** Building next-generation roleplay scripts that actually make sense
-
-**⚡ Specialty:** Taking broken or laggy scripts and making them fly
-
-**🎮 Mission:** Helping server owners create unforgettable experiences for their players
-
-**💡 Philosophy:** Great code should be invisible - players should only notice the amazing experience
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+FIVEM+SCRIPT+WIZARD+%F0%9F%94%A5;%E2%9A%A1+QBCORE+%7C+QBOX+%7C+ESX+SPECIALIST+%E2%9A%A1;%F0%9F%8C%90+SVELTE+%26+MODERN+WEB+DEV+%F0%9F%8C%90;%F0%9F%9A%80+BUILDING+AMAZING+RP+EXPERIENCES+%F0%9F%9A%80;%F0%9F%92%8E+ALWAYS+LEARNING%2C+ALWAYS+CODING+%F0%9F%92%8E)
 
 <br>
 
-## 🛠️ **My Tech Stack**
-
-```lua
-local mySkills = {
-    frameworks = {
-        "QBCore",      -- My go-to for modern servers 👑
-        "QBox",        -- Love the new architecture ⭐
-        "ESX",         -- Still got love for the classic 🛡️
-    },
-    
-    languages = {
-        "Lua",         -- My daily driver 🚀
-        "JavaScript",  -- For those slick UIs 🌐
-        "SQL",         -- Database optimization ninja 💾
-        "HTML/CSS",    -- Making things look pretty ✨
-    },
-    
-    specialties = {
-        "Performance Optimization",  -- Making servers run smooth
-        "Custom Script Development", -- Bringing wild ideas to life
-        "Database Design",          -- Clean, efficient data structures
-        "UI/UX Design",            -- User experience matters
-        "Community Building"        -- It's all about the people
-    },
-    
-    current_projects = {
-        "Advanced Banking System",
-        "Realistic Phone Framework", 
-        "Dynamic Economy Script",
-        "Custom Housing System"
-    }
-}
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    🌟 PASSIONATE DEVELOPER & COMMUNITY BUILDER 🌟            ║
+║                                                                              ║
+║  💫 Creating immersive experiences that bring people together 💫             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-## 🚀 **What I'm Working On**
-
-| Project | Progress | What It Does |
-|---------|----------|--------------|
-| 🏦 **Next-Gen Banking** | ████████░░ 80% | Revolutionary financial system for RP |
-| 📱 **Smart Phone OS** | ██████░░░░ 60% | Fully functional phone with apps |
-| 🏠 **Dynamic Housing** | ███████░░░ 70% | Player-customizable homes & apartments |
-| 🌐 **Community Hub** | █████░░░░░ 50% | Cross-server communication system |
+</div>
 
 <br>
 
-## 🤝 **Let's Build Something Amazing**
+## 🎯 **What Drives Me**
 
-**🎯 Always excited to collaborate on:**
+<table>
+<tr>
+<td width="50%">
 
-- 🏪 **QBCore/QBox Projects** - Love working with modern frameworks
-- 🔧 **Script Optimization** - Got a laggy script? Let's fix it together  
-- 🎨 **Custom Development** - Unique ideas are the best ideas
-- 🌊 **Performance Tuning** - Making servers run like butter
-- 🎭 **Roleplay Innovation** - Creating new ways for players to interact
+### 🔥 **Current Mission**
+```yaml
+focus: "Next-gen RP experiences"
+specialty: "Performance & Innovation"
+philosophy: "Code should be invisible,
+            experiences unforgettable"
+status: "Always building something cool"
+```
+
+</td>
+<td width="50%">
+
+### 💡 **Core Values**
+- 🌟 **Player Experience First**
+- ⚡ **Performance Matters**
+- 🤝 **Community Collaboration** 
+- 🚀 **Continuous Learning**
+- 💎 **Quality Over Quantity**
+
+</td>
+</tr>
+</table>
 
 <br>
 
-**💡 Whether you're a server owner with a crazy idea or a fellow developer wanting to collaborate, I'm always down to chat!**
-
-<br>
-
-## 🌐 **Recent Wins**
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-**🔥 Helped optimize a 200-player server that was constantly crashing - now runs smooth at 300+ players**
+### 🎮 **FiveM Frameworks**
+![QBCore](https://img.shields.io/badge/QBCore-FF6B6B?style=for-the-badge&logo=lua&logoColor=white)
+![QBox](https://img.shields.io/badge/QBox-4ECDC4?style=for-the-badge&logo=lua&logoColor=white)
+![ESX](https://img.shields.io/badge/ESX-45B7D1?style=for-the-badge&logo=lua&logoColor=white)
 
-**⚡ Built a custom inventory system that reduced item load times by 75%**
+### 💻 **Languages & Frameworks**
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🎮 Created a dynamic event system that's now used by 15+ different servers**
-
-**💎 Developed a realistic banking system with actual interest calculations and loan systems**
+### 🗄️ **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
 <br>
 
-## 🔗 **Connect With Me**
+## 🚀 **Current Projects**
 
 <div align="center">
 
-[![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)](https://fivem.net)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheFallen087)
+| 🎯 **Project** | 🔧 **Tech Stack** | 📊 **Progress** | ✨ **Cool Factor** |
+|:---:|:---:|:---:|:---:|
+| 🏦 **Neo Banking System** | `Lua` `Svelte` `MySQL` | ████████░░ 80% | 🔥🔥🔥🔥🔥 |
+| 📱 **Smart Phone OS** | `JavaScript` `Svelte` `CSS3` | ██████░░░░ 60% | 🔥🔥🔥🔥⚪ |
+| 🏠 **Dynamic Housing** | `QBCore` `Lua` `HTML5` | ███████░░░ 70% | 🔥🔥🔥⚪⚪ |
+| 🌐 **Admin Dashboard** | `Svelte` `TypeScript` `Node.js` | █████░░░░░ 50% | 🔥🔥🔥🔥🔥 |
 
 </div>
 
 <br>
 
-## 💬 **My Development Philosophy**
+## 🔥 **Featured Builds**
+
+<div align="center">
+
+| 🛠️ **Project** | 🎯 **Impact** | 🚀 **Tech Used** | ⭐ **Status** |
+|:---|:---|:---|:---|
+| **🏦 Advanced Banking Suite** | Multi-server implementation | `Lua` `Svelte` `MySQL` | ✅ **Live & Thriving** |
+| **📱 Custom Phone Framework** | Revolutionary UI/UX design | `JavaScript` `CSS3` `HTML5` | 🔥 **Community Favorite** |
+| **⚡ Performance Optimizer** | 300% server efficiency boost | `Lua` `SQL Optimization` | 💎 **Industry Standard** |
+| **🎮 Dynamic Event System** | Powers 20+ active servers | `QBCore` `Custom APIs` | 🌟 **Open Source** |
+| **🌐 Admin Dashboard** | Real-time server management | `Svelte` `TypeScript` `Node.js` | 🚀 **Beta Testing** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+🎯 Each project solves real problems and makes servers more awesome
+💡 Always building with the community in mind
+🔥 Quality code that stands the test of time
+```
+
+</div>
+
+<br>
+
+## 🤝 **Let's Collaborate**
+
+<div align="center">
+
+### 🌟 **Always Excited to Work On** 🌟
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 **FiveM Projects**
+- 🏪 **QBCore/QBox Development**
+- 🔧 **Script Optimization & Fixes**
+- 🎨 **Custom Roleplay Systems**
+- 🌊 **Performance Tuning**
+- 📱 **Modern UI Development**
+
+</td>
+<td width="50%">
+
+#### 🌐 **Web Development**
+- ⚡ **Svelte Applications**
+- 🎯 **Server Admin Panels**
+- 📊 **Analytics Dashboards**
+- 🔗 **API Development**
+- 🎨 **Modern UI/UX Design**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+```
+💡 Got a wild idea? A broken script? A vision for the future of RP?
+   Let's turn it into reality together!
+```
+
+</div>
+
+<br>
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheFallen087)
+[![FiveM](https://img.shields.io/badge/FiveM-Community-F40552?style=for-the-badge&logo=fivem&logoColor=white)](https://fivem.net)
+[![Email](https://img.shields.io/badge/Email-Professional_Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div>
+
+<br>
+
+## 💭 **Developer Philosophy**
 
 <div align="center">
 
 <br>
 
-*"Code is just the tool - the real magic happens when players forget they're in a game.*
-
-*Every script should solve a real problem, every feature should enhance the story,*
-
-*and every line of code should respect the player's time."*
+> *"The best code is the code players never notice -*  
+> *they're too busy having an amazing experience."*
 
 <br>
 
-### 🌟 **Always Open to New Projects and Collaborations** 🌟
+> *"Every bug is a puzzle, every optimization is an art form,*  
+> *and every collaboration makes us all better developers."*
 
-*Got an idea that could change how people experience FiveM? Let's make it happen!*
+<br>
+
+### 🎯 **Always Learning, Always Building, Always Sharing** 🎯
 
 </div>
 
@@ -142,14 +207,13 @@ local mySkills = {
 
 <div align="center">
 
-**⚡ Currently online and always ready to help the FiveM community grow ⚡**
-
-<br>
-
-*🔥 Hit me up if you want to build something that players will actually remember 🔥*
-
-<br>
-
-**💭 "Great servers aren't built by one person - they're built by passionate communities working together"**
+```
+╔════════════════════════════════════════════════════════════════╗
+║  🚀 Currently Online & Ready to Build Something Amazing! 🚀   ║
+║                                                                ║
+║     💬 Open to collaborations, questions, and cool ideas      ║
+║        🌟 Let's make FiveM and the web more awesome! 🌟       ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
 </div>
